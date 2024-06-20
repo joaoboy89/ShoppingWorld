@@ -1,0 +1,36 @@
+.seccion-articulos {
+    padding: 5px; 
+    margin: 5px; 
+}
+
+.nav-link-active {
+    background-color: #e09704; 
+    color: #fff; 
+    border-radius: 4px; 
+    padding: 0.5rem 1rem; 
+}
+.nav-link.active {
+    background-color: #fcf5dc;
+    font-weight: bold;
+    color: #ff6600 !important;
+    border-radius: 4px;
+    padding: 0.5rem 1rem;
+}
+
+.tdCarritoPage {
+    text-align: left; 
+    vertical-align: middle; 
+}
+
+.table {
+    margin-bottom: 20px; /* Ajusta según sea necesario */
+  }
+
+.btn-ouline-primary{
+    align-items: center;
+    margin: auto;
+  }
+
+  .btn-primary{
+    align-items: center;
+  }

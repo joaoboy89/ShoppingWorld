@@ -1,0 +1,6 @@
+.img-footer-container {
+    max-width: 100%;
+    height: auto;
+    display: flex;
+    align-items: flex-start; 
+}
